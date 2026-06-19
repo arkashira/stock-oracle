@@ -1,6 +1,6 @@
 # Stock Oracle
 
-A Python project for inventory replenishment planning.
+This project provides a simple inventory replenishment planning system.
 
 ## Usage
 
