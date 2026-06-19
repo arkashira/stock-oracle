@@ -1,2 +1,8 @@
-# stock-oracle
-axentx product · An AI-powered inventory replenishment planning tool that integrates with multiple fulfillment centers and vendors to optimize purchase decisions for high-SKU DTC retailers.
+# Stock Oracle
+
+A Python project for inventory replenishment planning.
+
+## Usage
+
+1. Install the project using `poetry install`.
+2. Run the tests using `pytest`.
